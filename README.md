@@ -25,5 +25,7 @@ In this assignment, I utilized threading to address a producer-consumer problem,
 ---
 ## **Technologies and Tools Used**
 - **C**
+- **Fork Programming**
+- **Thread Programming**
 - **Makefile**
 - **Unix/Linux Command Line**
